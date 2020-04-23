@@ -4,10 +4,9 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-pytest = "==5.3.5"
-pytest-mock = "*"
 
 [packages]
+django = "*"
 
 [requires]
 python_version = "3.6"
